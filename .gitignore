@@ -1,0 +1,16 @@
+﻿.env
+.env.*
+*.pfx
+*.p12
+*.key
+*.pem
+*.elenabackup
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.zip
+*.7z
+*.rar
+node_modules/
+release/
