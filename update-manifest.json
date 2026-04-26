@@ -2,7 +2,7 @@
   "product": "ElenaManager",
   "channel": "stable",
   "version": "1.0.0",
-  "publishedAt": "2026-04-26T09:12:54.528Z",
+  "publishedAt": "2026-04-26T09:13:34.902Z",
   "artifacts": [
     {
       "type": "nsis",
@@ -12,15 +12,6 @@
       "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.0/ElenaManager-Setup-1.0.0.exe",
       "sha256": "1c5f92ce53a98e803492ddd5f266d138c8cc96caea41cc3b7accc7cb060d93ba",
       "size": 513073440
-    },
-    {
-      "type": "portable",
-      "platform": "win32",
-      "arch": "x64",
-      "file": "ElenaManager-Portable-1.0.0.exe",
-      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.0/ElenaManager-Portable-1.0.0.exe",
-      "sha256": "1364724cac4b6bf0b1257986c0cb9db16fac64869a085a9b09e4491210b22985",
-      "size": 512852448
     }
   ]
 }
