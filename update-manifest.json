@@ -1,27 +1,27 @@
 {
   "product": "ElenaManager",
   "channel": "stable",
-  "version": "1.0.15",
-  "publishedAt": "2026-04-27T21:49:26.502Z",
-  "notes": "Hotfix release: fixes packaged startup error caused by missing Excel import/export dependencies, plus the 1.0.14 production improvements.",
+  "version": "1.0.16",
+  "publishedAt": "2026-04-27T22:04:02.560Z",
+  "notes": "Assistant capability hotfix: Nora now correctly explains which safer actions she can prepare and run with confirmation, while keeping human approval for risky actions.",
   "artifacts": [
     {
       "type": "nsis",
       "platform": "win32",
       "arch": "x64",
-      "file": "ElenaManager-Setup-1.0.15.exe",
-      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.15/ElenaManager-Setup-1.0.15.exe",
-      "sha256": "786dc3653c0e49ffe5054842fe23b1140584fa6d72c85e7151dd2167b7e66689",
-      "size": 503478896
+      "file": "ElenaManager-Setup-1.0.16.exe",
+      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.16/ElenaManager-Setup-1.0.16.exe",
+      "sha256": "209d4b4bd6c865afb37496fe1edbfb7f5e308a8ea98815d2eaa62ffb4f24881d",
+      "size": 503479512
     },
     {
       "type": "portable",
       "platform": "win32",
       "arch": "x64",
-      "file": "ElenaManager-Portable-1.0.15.exe",
-      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.15/ElenaManager-Portable-1.0.15.exe",
-      "sha256": "8d6b44cf65cd51448a13088448511da6384f885507538b7b069237bb74060e47",
-      "size": 503257960
+      "file": "ElenaManager-Portable-1.0.16.exe",
+      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.16/ElenaManager-Portable-1.0.16.exe",
+      "sha256": "4bd755c7fe09824d711bdebc50af09f4f8d2c34c9d533fc234f680baa9e1f276",
+      "size": 503258592
     }
   ]
 }
