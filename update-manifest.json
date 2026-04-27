@@ -1,17 +1,27 @@
 {
   "product": "ElenaManager",
   "channel": "stable",
-  "version": "1.0.1",
-  "publishedAt": "2026-04-26T16:27:44.141Z",
+  "version": "1.0.14",
+  "publishedAt": "2026-04-27T21:30:58.942Z",
+  "notes": "Production release with Didit AML readiness, Nora assistant workflow upgrades, cleaner settings, professional templates, invoice PDF polish, and frontend production fixes.",
   "artifacts": [
     {
       "type": "nsis",
       "platform": "win32",
       "arch": "x64",
-      "file": "ElenaManager-Setup-1.0.1.exe",
-      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.1/ElenaManager-Setup-1.0.1.exe",
-      "sha256": "e82bc6fb351dc94d2adde5a64fb6e315e14d44249301b827da0467b18acf83d5",
-      "size": 513143152
+      "file": "ElenaManager-Setup-1.0.14.exe",
+      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.14/ElenaManager-Setup-1.0.14.exe",
+      "sha256": "abacd54c56b87940ecc423739adbd52fff4e35ff0c5491151182d3a59172ba3e",
+      "size": 502793048
+    },
+    {
+      "type": "portable",
+      "platform": "win32",
+      "arch": "x64",
+      "file": "ElenaManager-Portable-1.0.14.exe",
+      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.14/ElenaManager-Portable-1.0.14.exe",
+      "sha256": "28362c1cbc6812a624543d48f5f65aa8abcafe89381af9ac52ce92bbca4833d9",
+      "size": 502572088
     }
   ]
 }
