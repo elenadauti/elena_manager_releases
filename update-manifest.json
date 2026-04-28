@@ -1,26 +1,26 @@
 {
   "product": "ElenaManager",
   "channel": "stable",
-  "version": "1.0.24",
-  "publishedAt": "2026-04-28T17:30:03.580Z",
+  "version": "1.0.25",
+  "publishedAt": "2026-04-28T17:52:40.735Z",
   "artifacts": [
     {
       "type": "nsis",
       "platform": "win32",
       "arch": "x64",
-      "file": "ElenaManager-Setup-1.0.24.exe",
-      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.24/ElenaManager-Setup-1.0.24.exe",
-      "sha256": "6229359885b30fb8dcb51153f94912895b0f222ec55656e21c772a1a84a66451",
-      "size": 503954968
+      "file": "ElenaManager-Setup-1.0.25.exe",
+      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.25/ElenaManager-Setup-1.0.25.exe",
+      "sha256": "12b501f1ad493d397a5f51427e59ceb30b67d04ae9e782fec0233266e33e7cb2",
+      "size": 503879704
     },
     {
       "type": "portable",
       "platform": "win32",
       "arch": "x64",
-      "file": "ElenaManager-Portable-1.0.24.exe",
-      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.24/ElenaManager-Portable-1.0.24.exe",
-      "sha256": "7715b30c3b9d6970b744528165d6b688473a44f9b1910be784b4b4d1f2e07771",
-      "size": 503734032
+      "file": "ElenaManager-Portable-1.0.25.exe",
+      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.25/ElenaManager-Portable-1.0.25.exe",
+      "sha256": "66220c129e5abb60c18fa1d659871d8de928fb2e0921df833283e08ecf7760cb",
+      "size": 503658784
     }
   ]
 }
