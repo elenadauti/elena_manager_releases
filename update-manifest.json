@@ -1,27 +1,26 @@
 {
   "product": "ElenaManager",
   "channel": "stable",
-  "version": "1.0.16",
-  "publishedAt": "2026-04-27T22:04:02.560Z",
-  "notes": "Assistant capability hotfix: Nora now correctly explains which safer actions she can prepare and run with confirmation, while keeping human approval for risky actions.",
+  "version": "1.0.17",
+  "publishedAt": "2026-04-28T12:38:29.196Z",
   "artifacts": [
     {
       "type": "nsis",
       "platform": "win32",
       "arch": "x64",
-      "file": "ElenaManager-Setup-1.0.16.exe",
-      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.16/ElenaManager-Setup-1.0.16.exe",
-      "sha256": "209d4b4bd6c865afb37496fe1edbfb7f5e308a8ea98815d2eaa62ffb4f24881d",
-      "size": 503479512
+      "file": "ElenaManager-Setup-1.0.17.exe",
+      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.17/ElenaManager-Setup-1.0.17.exe",
+      "sha256": "86641e1203d706047a98837c9382b4a9e972ae1c4b0bcec31d0bd7d2e2093b20",
+      "size": 503624336
     },
     {
       "type": "portable",
       "platform": "win32",
       "arch": "x64",
-      "file": "ElenaManager-Portable-1.0.16.exe",
-      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.16/ElenaManager-Portable-1.0.16.exe",
-      "sha256": "4bd755c7fe09824d711bdebc50af09f4f8d2c34c9d533fc234f680baa9e1f276",
-      "size": 503258592
+      "file": "ElenaManager-Portable-1.0.17.exe",
+      "url": "https://github.com/elenadauti/elena_manager_releases/releases/download/v1.0.17/ElenaManager-Portable-1.0.17.exe",
+      "sha256": "3c2faad66c36706218489b6160939077233da36c527a77024f34199ed6aaaea9",
+      "size": 503403408
     }
   ]
 }
