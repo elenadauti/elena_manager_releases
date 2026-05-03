@@ -2,7 +2,7 @@
   "product": "ElenaManager",
   "channel": "stable",
   "version": "1.0.44",
-  "publishedAt": "2026-05-03T11:14:00.614Z",
+  "publishedAt": "2026-05-03T13:58:40.763Z",
   "artifacts": [
     {
       "type": "nsis",
@@ -10,17 +10,17 @@
       "arch": "x64",
       "file": "ElenaManager-Setup-1.0.44.exe",
       "url": "ElenaManager-Setup-1.0.44.exe",
-      "sha256": "8de5355971d3a28fab108310e8b4f11cc5a9c4699039cf717c04bfcfe880c7d4",
-      "size": 529931320
+      "sha256": "1ec5d7715e592b359729b361d107483f83252ef37be7fb53ab17df10bbac4604",
+      "size": 868088912
     },
     {
       "type": "portable",
       "platform": "win32",
       "arch": "x64",
-      "file": "ElenaManager-Portable-1.0.44.exe",
-      "url": "ElenaManager-Portable-1.0.44.exe",
-      "sha256": "6d98d68fd044ac21bd4c4b43f49ac53eb23c3bb2e56f6e9e3ce1e15a4458f4a7",
-      "size": 529710392
+      "file": "ElenaManager-Portable-1.0.44-medium-whisper.exe",
+      "url": "ElenaManager-Portable-1.0.44-medium-whisper.exe",
+      "sha256": "398ac7ba232309f3680cc9bee75718d2ea569a7ba46d8d71c990d586ad0da964",
+      "size": 867867864
     }
   ]
 }
