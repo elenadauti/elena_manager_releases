@@ -1,8 +1,8 @@
-version: 1.0.46
+version: 1.0.47
 files:
-  - url: ElenaManager-Setup-1.0.46.exe
-    sha512: iiSV1ly2BUWgPtADTMvjWG1AhjurZb3WiIbwuiUvCyXC3fFW7FMhpfCUkoaP3sGQBQ/jip81SoIwaSaa3FIY0Q==
-    size: 868120672
-path: ElenaManager-Setup-1.0.46.exe
-sha512: iiSV1ly2BUWgPtADTMvjWG1AhjurZb3WiIbwuiUvCyXC3fFW7FMhpfCUkoaP3sGQBQ/jip81SoIwaSaa3FIY0Q==
-releaseDate: '2026-05-03T16:09:43.059Z'
+  - url: ElenaManager-Setup-1.0.47.exe
+    sha512: VRKwm+M7VshRul9fEUIzDtXbjY/wyALwcgW+LTyAbDy+V4xDlPZrXfJ3VIBwEwgeNXK8qoVAVDUZ28/Qkv9I6Q==
+    size: 868070600
+path: ElenaManager-Setup-1.0.47.exe
+sha512: VRKwm+M7VshRul9fEUIzDtXbjY/wyALwcgW+LTyAbDy+V4xDlPZrXfJ3VIBwEwgeNXK8qoVAVDUZ28/Qkv9I6Q==
+releaseDate: '2026-05-03T21:16:49.264Z'
